@@ -1,4 +1,4 @@
-# Object Oriented Programming
+# Object Oriented Programming in C++
 
 Object Oriented Programming is a programming paradigm where we design a program using classes and objects (similar to real life). This simplifies overall software development and maintainance.
 
